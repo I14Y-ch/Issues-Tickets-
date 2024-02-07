@@ -2,7 +2,7 @@
 name: 'Request Access '
 about: Request Edit Access through eIAM
 title: ''
-labels: ''
+labels: Rights
 assignees: ''
 
 ---
